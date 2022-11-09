@@ -10,8 +10,7 @@
 
 </div>
 
-<pre align="center">[INSERT A SINGLE SENTENCE DESCRIBING THE PURPOSE OF YOUR REPO / PROJ]</pre>
-<!-- ☝️ Replace with a single sentence describing the purpose of your repo / proj ☝️ -->
+<pre align="center">repository containing code & configuration related to the on-demand task</pre>
 
 <!-- Header block for project -->
 
