@@ -5,12 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.3.0] - 2022-12-01
+## [Unity Release 23.1] - 2023-04-07
 
 ### Added 
 
-- 
--
--
-
-[Unity Release 23.1] - 2023-04-07
+- Initial implementation and release of the On-Demand REST API (v0.0.1)
+  - https://github.com/unity-sds/unity-on-demand-api/releases/tag/v0.0.1
+- Initial documentation
+  - Gitbook: https://unity-sds.gitbook.io/docs/developer-docs/on-demand/docs/user-guide/on-demand-api
+  - github.io: https://unity-sds.github.io/unity-on-demand-api/
