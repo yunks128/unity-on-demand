@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unity Release 23.2] - 2023-06-30
 
 ### Added 
-- Updated implementation and initial release of the [On-Demand CloudFormation templates v0.0.1](https://github.com/unity-sds/unity-on-demand-cloudformation/releases/tag/v0.0.1)
+- Initial release of the [On-Demand CloudFormation templates v0.0.1](https://github.com/unity-sds/unity-on-demand-cloudformation/releases/tag/v0.0.1)
   - port management console instance AMI from Amazon Linux 2 to Ubuntu 20.04 LTS
   - deploy and startup the management console v0.2.9 (unity-sds/unity-on-demand#28)
   - remove deployment of On-Demand REST API, EKS and SPS from CloudFormation (unity-sds/unity-on-demand#26)
