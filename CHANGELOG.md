@@ -23,6 +23,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
       - this single AWS lambda function is used to trigger prewarm based on:
         - on a cron-like schedule using AWS EventBridge (unity-sds/unity-project-management#62)
         - upon data arrival using S3 events (unity-sds/unity-project-management#61)
+      - Video demo of these trigger capabilities
+        - https://drive.google.com/file/d/1Bqn2iq3OdJRz_gb69WAJ1i4ZA7FtpIwm/view?usp=drive_link
 - Updated documentation
   - Gitbook: https://unity-sds.gitbook.io/docs/developer-docs/on-demand/deployment-of-on-demand-sps
 - Video demo of management console deployment via CloudFormation
